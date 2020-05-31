@@ -1,0 +1,1 @@
+Para jogar basta clonar o repositório, digitar "make" e executar o binário que ele gerar.
